@@ -9,7 +9,7 @@ I'm Frank, a passionate developer with a love for creating innovative solutions.
 - 🛠️ **Tools:** ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) ![DBeaver](https://img.shields.io/badge/-DBeaver-1F6FEB?logo=dbeaver&logoColor=white) ![Visual Studio 2022](https://img.shields.io/badge/-Visual%20Studio%202022-5C2D91?logo=visualstudio&logoColor=white) ![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?logo=apache-netbeans-ide&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual%20studio%20code&logoColor=white)
 
 ## 📈 GitHub Stats
-![Your GitHub stats]([https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&theme=radical](https://github.com/Frankbanna))
+![Your GitHub stats]([https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&theme=radical](https://github.com/Frankbanna)
 
 ## 📫 Connect with Me
 - 🔗 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)]([https://facebook.com/yourname](https://www.facebook.com/frank071295/)
