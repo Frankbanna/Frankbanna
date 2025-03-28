@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-![Developer Cartoon]([https://yourimagehost.com/path/to/your/image.png](https://drive.google.com/file/d/1xS4qiMAw6eG1Y2ncbxsHcLTzdHa-mp8x/view?usp=drive_link))
+![Developer Cartoon](https://i.imgur.com/d8BDqZ5.png)
 
 I'm Frank, a passionate developer with a love for creating innovative solutions. 🚀
 
@@ -17,4 +17,3 @@ I'm Frank, a passionate developer with a love for creating innovative solutions.
 - 🔗 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/frank071295/)
 
 > "Code is like humor. When you have to explain it, it’s bad." — Cory House
-
