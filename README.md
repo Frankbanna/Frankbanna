@@ -16,7 +16,7 @@ I'm Frank, a passionate developer with a love for creating innovative solutions.
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
-- 🔗 ![Facebookhttps://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)]([https://facebook.com/yourname](https://www.facebook.com/frank071295/)
+- 🔗 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)]([https://facebook.com/yourname](https://www.facebook.com/frank071295/)
 
 
 > "Code is like humor. When you have to explain it, it’s bad." — Cory House
