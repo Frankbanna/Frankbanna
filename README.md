@@ -17,6 +17,6 @@ I'm Frank, a passionate developer with a love for creating innovative solutions.
 
 ## 📫 Connect with Me
 - 🔗 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname)
-- 🔗 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourname)
+
 
 > "Code is like humor. When you have to explain it, it’s bad." — Cory House
