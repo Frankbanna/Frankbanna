@@ -1,5 +1,7 @@
 # Hi there! 👋
 
+![Developer Cartoon](https://cdn.openai.com/dall-e-2/images/generations/2025/03/28/A_cool_and_stylish_cartoon_image_of_a_developer_wo.png)
+
 I'm Frank, a passionate developer with a love for creating innovative solutions. 🚀
 
 ## 💻 Tech Stack
