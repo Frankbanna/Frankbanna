@@ -1,7 +1,5 @@
 # Hi there! 👋
 
-![Developer Cartoon](https://i.imgur.com/QVHmHKI.png)
-
 I'm Frank, a passionate developer with a love for creating innovative solutions. 🚀
 
 ## 💻 Tech Stack
