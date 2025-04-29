@@ -13,7 +13,7 @@ I'm Frank, a passionate developer with a love for creating innovative solutions.
 
 ## 📫 Connect with Me
 - 🔗 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/frank071295/)
-- 🔗 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/chaloemphon-bannarak-838668362/])
+- 🔗 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaloemphon-bannarak-838668362/)
 
 > "Code is like humor. When you have to explain it, it’s bad." — Cory House
 
